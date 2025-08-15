@@ -14,32 +14,32 @@
 Если коротко — Gitpod помогает сэкономить время на настройку и делает процесс программирования более гибким и доступным.
 Ты хотел узнать про Gitpod для какого-то конкретного проекта?"
 ## Yaziki kotorie bili ispolzovani: 
-### 1.html & css
-### 2.tailwind
-### 3 scss
+ 1.html & css
+2.tailwind
+3 scss
 
 ## Instruksi po priyom ustanovki
-### '''git_bash 
+'''git_bash 
 
 ## priyom ustanovki 
-###  npm install tailwindcss @tailwindcss/cli; na terminal
-###  @import "tailwindcss"; na  src/input.css
-###  npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch; na terminal.
-### <link href="./output.css" rel="stylesheet"> na index.html
+  npm install tailwindcss @tailwindcss/cli; na terminal
+  @import "tailwindcss"; na  src/input.css
+  npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch; na terminal.
+ <link href="./output.css" rel="stylesheet"> na index.html
 
 # stkurtura proikta
 
-project-name/HomeWork
-├── src/input.css
-│   ├── HomeWork.html
-│   ├── styles/tailwind.css
-│   └── scripts/terminal
-├── README.md
-└── package.json
+ project-name/HomeWork
+ ├── src/input.css
+ │   ├── HomeWork.html
+ │   ├── styles/tailwind.css
+ │   └── scripts/terminal
+ ├── README.md
+ └── package.json
  
-# Avtor: Ismoil Qurbononv:
-# Yaziki: TJK, RU, EN:
-# Znanie Yazika Programirovanie: C++ Paython HTML&CSS SCSS TAILWIND:
+ Avtor: Ismoil Qurbononv:
+ Yaziki: TJK, RU, EN:
+ Znanie Yazika Programirovanie: C++ Paython HTML&CSS SCSS TAILWIND:
 
-# tel: +992 755-**-**-40:
-# Email: example.o6@icloud.com
+ tel: +992 755-**-**-40:
+ Email: example.o6@icloud.com
